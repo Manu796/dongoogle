@@ -126,6 +126,11 @@ main .botones-main div{
     display: inline-block;
 }
 
+main .botones-main div a{
+    text-decoration: none;
+    color: #44484b;
+}
+
 main .botones-main button{
     height: 36px;
     background-color: #f2f2f2;
